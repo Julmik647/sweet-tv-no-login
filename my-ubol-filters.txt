@@ -1,0 +1,6 @@
+sweet.tv##button.stub-free-tv-eu__button.default-button
+sweet.tv##div.main-screen__content.free-tv__banner_backGround
+sweet.tv##div.stub-free-tv-eu
+sweet.tv##div.stub-free-tv-eu__additional
+sweet.tv##div.stub-free-tv-eu__options
+sweet.tv##h1
